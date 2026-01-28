@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Preserved-name&project=PacketSniffer&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # PacketSniffer - 实时网络抓包与协议解析工具
 
 一个基于 C# 开发的实时网络抓包工具，支持自动协议识别、解析和业务逻辑分发。
